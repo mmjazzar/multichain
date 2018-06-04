@@ -1,0 +1,74 @@
+2018-06-03 12:25:33.773	Initialized. Chain height: -1, Txs: 0
+2018-06-03 12:25:33.783	Entity (00000101, 0000000000000000000000000000000000000000) added successfully
+2018-06-03 12:25:33.783	Entity (00000201, 0000000000000000000000000000000000000000) added successfully
+2018-06-03 12:25:33.783	Entity (00000102, 0000000000000000000000000000000000000000) added successfully
+2018-06-03 12:25:33.783	Entity (00000202, 0000000000000000000000000000000000000000) added successfully
+2018-06-03 12:25:33.783	Entity (00000103, f776e8689244716df14b8dcc1707abd18df08b1e) added successfully
+2018-06-03 12:25:33.783	Entity (00000203, f776e8689244716df14b8dcc1707abd18df08b1e) added successfully
+2018-06-03 12:25:33.841	Entity (00000105, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.841	Entity (00000205, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.841	Entity (00000106, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.841	Entity (00000206, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.841	Entity (00000107, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.841	Entity (00000207, 000000001f184206564d1913f2eed03c27d06be9) added successfully
+2018-06-03 12:25:33.889	NewBlock 0, Txs: 0, Rows: 0
+2018-06-03 12:25:33.963	NewTx d711fa1417466d70458c2656ff967699d9f05b3ace5b4a2c70afb05460c73688, block 1, flags 00000006, import 0
+2018-06-03 12:25:33.981	NewBlock 1, Txs: 1, Rows: 6
+2018-06-03 12:25:34.038	NewBlock 2, Txs: 0, Rows: 0
+2018-06-03 12:25:46.203	NewBlock 3, Txs: 0, Rows: 0
+2018-06-03 12:26:09.386	NewBlock 4, Txs: 0, Rows: 0
+2018-06-03 12:26:21.207	NewBlock 5, Txs: 0, Rows: 0
+2018-06-03 12:26:40.273	NewBlock 6, Txs: 0, Rows: 0
+2018-06-03 12:26:56.872	NewBlock 7, Txs: 0, Rows: 0
+2018-06-03 12:27:11.248	NewBlock 8, Txs: 0, Rows: 0
+2018-06-03 12:27:26.725	NewBlock 9, Txs: 0, Rows: 0
+2018-06-03 12:27:48.810	NewBlock 10, Txs: 0, Rows: 0
+2018-06-03 12:28:10.899	NewBlock 11, Txs: 0, Rows: 0
+2018-06-03 12:28:19.789	NewBlock 12, Txs: 0, Rows: 0
+2018-06-03 12:28:30.882	NewBlock 13, Txs: 0, Rows: 0
+2018-06-03 12:28:36.456	NewBlock 14, Txs: 0, Rows: 0
+2018-06-03 12:28:54.143	NewBlock 15, Txs: 0, Rows: 0
+2018-06-03 12:29:10.722	NewBlock 16, Txs: 0, Rows: 0
+2018-06-03 12:29:30.654	NewBlock 17, Txs: 0, Rows: 0
+2018-06-03 12:29:49.464	NewBlock 18, Txs: 0, Rows: 0
+2018-06-03 12:29:55.030	NewBlock 19, Txs: 0, Rows: 0
+2018-06-03 12:30:08.305	NewBlock 20, Txs: 0, Rows: 0
+2018-06-03 12:30:32.588	NewBlock 21, Txs: 0, Rows: 0
+2018-06-03 12:30:38.160	NewBlock 22, Txs: 0, Rows: 0
+2018-06-03 12:31:04.652	NewBlock 23, Txs: 0, Rows: 0
+2018-06-03 12:31:08.009	NewBlock 24, Txs: 0, Rows: 0
+2018-06-03 12:31:24.589	NewBlock 25, Txs: 0, Rows: 0
+2018-06-03 12:31:38.980	NewBlock 26, Txs: 0, Rows: 0
+2018-06-03 12:32:03.258	NewBlock 27, Txs: 0, Rows: 0
+2018-06-03 12:32:12.128	NewBlock 28, Txs: 0, Rows: 0
+2018-06-03 12:32:33.112	NewBlock 29, Txs: 0, Rows: 0
+2018-06-03 12:32:39.775	NewBlock 30, Txs: 0, Rows: 0
+2018-06-03 12:32:51.943	NewBlock 31, Txs: 0, Rows: 0
+2018-06-03 12:33:12.914	NewBlock 32, Txs: 0, Rows: 0
+2018-06-03 12:33:31.686	NewBlock 33, Txs: 0, Rows: 0
+2018-06-03 12:33:40.553	NewBlock 34, Txs: 0, Rows: 0
+2018-06-03 12:33:57.124	NewBlock 35, Txs: 0, Rows: 0
+2018-06-03 12:34:19.206	NewBlock 36, Txs: 0, Rows: 0
+2018-06-03 12:34:22.575	NewBlock 37, Txs: 0, Rows: 0
+2018-06-03 12:34:36.938	NewBlock 38, Txs: 0, Rows: 0
+2018-06-03 12:34:56.819	NewBlock 39, Txs: 0, Rows: 0
+2018-06-03 12:35:13.391	NewBlock 40, Txs: 0, Rows: 0
+2018-06-03 12:35:35.530	NewBlock 41, Txs: 0, Rows: 0
+2018-06-03 12:35:40.373	NewBlock 42, Txs: 0, Rows: 0
+2018-06-03 12:35:59.161	NewBlock 43, Txs: 0, Rows: 0
+2018-06-03 12:36:16.992	NewBlock 44, Txs: 0, Rows: 0
+2018-06-03 12:36:27.679	NewBlock 45, Txs: 0, Rows: 0
+2018-06-03 12:36:48.699	NewBlock 46, Txs: 0, Rows: 0
+2018-06-03 12:36:52.058	NewBlock 47, Txs: 0, Rows: 0
+2018-06-03 12:37:06.497	NewBlock 48, Txs: 0, Rows: 0
+2018-06-03 12:37:30.788	NewBlock 49, Txs: 0, Rows: 0
+2018-06-03 12:37:38.558	NewBlock 50, Txs: 0, Rows: 0
+2018-06-03 12:37:52.944	NewBlock 51, Txs: 0, Rows: 0
+2018-06-03 12:38:10.616	NewBlock 52, Txs: 0, Rows: 0
+2018-06-03 12:38:23.883	NewBlock 53, Txs: 0, Rows: 0
+2018-06-03 12:38:48.344	NewBlock 54, Txs: 0, Rows: 0
+2018-06-03 12:38:57.261	NewBlock 55, Txs: 0, Rows: 0
+2018-06-03 12:39:13.278	NewBlock 56, Txs: 0, Rows: 0
+2018-06-03 12:39:22.499	NewBlock 57, Txs: 0, Rows: 0
+2018-06-03 12:39:39.088	NewBlock 58, Txs: 0, Rows: 0
+2018-06-03 12:40:02.281	NewBlock 59, Txs: 0, Rows: 0
